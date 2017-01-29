@@ -27,11 +27,12 @@ header{
 
 #umeafact{
   text-align: center;
+  margin-bottom: 150px;
 }
 
 #umeafact h1{
   font-size: 60px;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 
 #wrapper.menuDisplayed #sidebar-wrapper{

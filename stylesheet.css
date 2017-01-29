@@ -23,6 +23,16 @@ header{
   background-repeat: no-repeat;
   display: block;
   background-position-y: -500px;
+  font-size: 45px;
+}
+
+#menu-toggle{
+  color: #fff;
+  text-decoration: none;
+  position: fixed;
+  background: rgba(61, 63, 64, 0.8);
+  height: 50px;
+  margin-top: -10px;
 }
 
 #umeafact{

@@ -19,6 +19,7 @@
 header{
   height: 500px;
   background-image: url(image/Umea.jpg);
+  opacity: 0.9;
   position: relative;
   background-repeat: no-repeat;
   display: block;
@@ -43,6 +44,14 @@ header{
 #umeafact h1{
   font-size: 60px;
   margin-bottom: 150px;
+}
+
+#umeafact2 h2{
+  margin-bottom: 20px;
+}
+
+#umeafact2 li{
+  margin-bottom: 20px;
 }
 
 #wrapper.menuDisplayed #sidebar-wrapper{

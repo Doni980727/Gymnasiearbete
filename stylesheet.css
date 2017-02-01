@@ -36,7 +36,7 @@
 header{
   height: 500px;
   /*background-image: url(image/Umea.jpg);*/
-  opacity: 0.9;
+  opacity: 0.85;
   position: relative;
   background-repeat: no-repeat;
   display: block;
@@ -47,7 +47,8 @@ header{
 header h1{
   font-size: 70px;
   text-align: center;
-  color: #000
+  color: #000;
+  margin-top: 75px;
 }
 
 #startsida{
@@ -63,7 +64,6 @@ header h1{
   color: #fff;
   text-decoration: none;
   font-size: 40px;
-
 }
 
 #umeafact{
